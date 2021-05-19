@@ -57,5 +57,5 @@ models:
     type: page
     label: portafolio
     fields:
-      - name: ''
+      - name: layaout
         type: string
