@@ -60,3 +60,5 @@ models:
       - name: layout
         type: string
         label: Layout
+      - name: ''
+        type: string
