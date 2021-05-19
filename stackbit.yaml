@@ -27,7 +27,7 @@ models:
         label: Categories
   page_1:
     type: page
-    label: Page 1
+    label: index
     match:
       - '*'
     exclude:
