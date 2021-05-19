@@ -44,7 +44,7 @@ models:
         label: Permalink
   page_2:
     type: page
-    label: Page 2
+    label: abaut
     match:
       - '*'
     exclude:
