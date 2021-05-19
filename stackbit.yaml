@@ -63,3 +63,5 @@ models:
       - name: title
         type: string
         label: Title
+    singleInstance: true
+    file: ''
