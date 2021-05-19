@@ -1,6 +1,7 @@
 ---
 layout: lorem-ipsum
 title: Contacto
+permalink: //
 ---
 ## **Contacto**
 
