@@ -27,7 +27,7 @@ models:
         label: Categories
   page_1:
     type: page
-    label: page1
+    label: abaut
     match:
       - '*'
     exclude:
