@@ -1,6 +1,6 @@
 ---
 layout: lorem-ipsum
-title: lorem-ipsum
+title: Contacto
 permalink: lorem-ipsum
 ---
 ## Lorem ipsum
