@@ -1,5 +1,7 @@
 ---
 layout: lorem-ipsum
+title: lorem-ipsum
+permalink: lorem-ipsum
 ---
 ## Lorem ipsum
 
