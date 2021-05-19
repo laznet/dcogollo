@@ -56,3 +56,6 @@ models:
   portafolio:
     type: page
     label: portafolio
+    fields:
+      - name: ''
+        type: string
