@@ -53,9 +53,3 @@ models:
       - type: string
         name: layout
         label: Layout
-  contacto:
-    type: page
-    label: contacto
-    fields:
-      - name: 'Layaut: '
-        type: string
