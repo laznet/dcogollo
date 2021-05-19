@@ -53,9 +53,3 @@ models:
       - type: string
         name: layout
         label: Layout
-  portafolio:
-    type: page
-    label: portafolio
-    fields:
-      - name: layaout
-        type: string
