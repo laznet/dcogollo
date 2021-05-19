@@ -59,3 +59,4 @@ models:
     fields:
       - name: Layout
         type: string
+        label: Layout
