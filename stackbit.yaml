@@ -57,6 +57,6 @@ models:
     type: page
     label: contacto
     fields:
-      - name: ''
+      - name: nombre
         type: string
         label: ''
