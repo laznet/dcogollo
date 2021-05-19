@@ -59,4 +59,4 @@ models:
     fields:
       - name: nombre
         type: string
-        label: ''
+        label: Nombre
