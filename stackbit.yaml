@@ -56,3 +56,6 @@ models:
   contacto:
     type: page
     label: contacto
+    fields:
+      - name: ''
+        type: string
